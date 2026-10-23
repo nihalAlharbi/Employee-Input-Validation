@@ -20,4 +20,6 @@ Run `python employee_validator.py` using a Python installation with Tkinter supp
 - The **Add User** button checks only that fields are non-empty; it does not save employee records.
 
 ## Screenshot
-An authentic screenshot is included in the prepared project ZIP and can be uploaded to `screenshots/application.png`.
+![Employee input validation application interface](application.png)
+
+*Screenshot of the actual Tkinter application.*
